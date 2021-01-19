@@ -3,6 +3,10 @@
 ![CI](https://github.com/zabbix/zabbix-docker/workflows/CI/badge.svg?branch=trunk&event=release)
 ![CI](https://github.com/zabbix/zabbix-docker/workflows/CI/badge.svg?branch=trunk&event=push)
 
+# NOTE
+The purpose of this fork is to create a zabbix-appliance docker container hosted on Github Container Repository for use by Azure Container Instances.
+
+
 # What is Zabbix?
 
 Zabbix is an enterprise-class open source distributed monitoring solution.
